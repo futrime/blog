@@ -31,6 +31,9 @@ jobs:
   deploy:
     name: Deploy the website
     needs: build
+    permissions:
+      id-token: write
+      pages: write
     runs-on: ubuntu-latest
     
     steps:
