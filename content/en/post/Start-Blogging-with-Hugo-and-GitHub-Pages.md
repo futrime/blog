@@ -24,7 +24,11 @@ Note that GitHub Pages is just a deployment service, storage service not include
 
 Login or sign up on GitHub, then create a new repository.
 
+![The button for creating a new repository](https://s2.loli.net/2022/09/17/MeIzNZcYrTxl4KJ.png)
+
 If you would just like to use the whole `<your_name>.github.io` domain as your blog, you should set the repository name to `<your_name>.github.io`, where `<your_name>` is the personal space name (as you can access your space via `https://github.com/<your_name>`). Meanwhile, you ought to set the repository accessibility to **Public**. Then click **Create repository** to create the repository.
+
+![The repository name](https://s2.loli.net/2022/09/17/MIGm2q3g7cH5TDx.png)
 
 ### Add Some Pages
 
@@ -33,6 +37,8 @@ Now that you have create the repository, it's time to add some pages to it. Just
 ### Enable GitHub Pages
 
 Go to **Settings** -> **Pages**. Adjust the branch selection from **None** to **main**, and set the folder to **/ (root)**. Click **Save**.
+
+![The GitHub Pages configurations](https://s2.loli.net/2022/09/17/JhGo1RBNWEVdlkM.png)
 
 Wait, and refresh from time to time until the text **Your site is live at `https://<your_name>.github.io/`** is shown. Click the URL and you would see **Hello World** on the page.
 
@@ -135,6 +141,8 @@ jobs:
 Stash all changes, commit, and push.
 
 On GitHub, open **Settings** -> **Pages**, switch the **Source** from **Deploy from a branch** to **GitHub Actions**.
+
+![Switch to GitHub Actions](https://s2.loli.net/2022/09/17/jBnY2ofSvpWC57U.png)
 
 Open **Actions**, wait until the signal of latest job turns green. Visit your website.
 
