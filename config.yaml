@@ -1,0 +1,161 @@
+baseurl: https://blog.futrime.com
+defaultContentLanguageInSubdir: true
+defaultContentLanguage: en
+googleAnalytics: # GA Tracking ID
+hasCJKLanguage: false
+paginate: 5
+theme: hugo-theme-stack
+
+languages:
+    en:
+        contentDir: content/en
+        languageCode: en
+        languageName: English
+        title: Futrime's Blog
+        weight: 1
+
+        menu:
+            main:
+                - identifier: home
+                  name: Home
+                  url: /
+                  weight: 10
+                
+                - identifier: about
+                  name: About
+                  url: /about
+                  weight: 20
+                
+    zh-cn:
+        contentDir: content/zh-cn
+        languageCode: zh-cn
+        languageName: 中文
+        title: Futrime的博客
+        weight: 2
+
+        menu:
+            main:
+                - identifier: home
+                  name: 主页
+                  url: /
+                  weight: 10
+                
+                - identifier: about
+                  name: 关于
+                  url: /about
+                  weight: 20
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    tableOfContents:
+        endLevel: 4
+        ordered: true
+        startLevel: 2
+    highlight:
+        noClasses: false
+        codeFences: true
+        guessSyntax: true
+        lineNoStart: 1
+        lineNos: true
+        lineNumbersInTable: true
+        tabWidth: 4
+
+menu:
+    social:
+        - identifier: github
+          name: GitHub
+          url: https://github.com/Futrime
+          params:
+              icon: brand-github
+
+        - identifier: telegram
+          name: Email
+          url: mailto:futrime@outlook.com
+          params:
+              icon: messages
+
+        - identifier: twitter
+          name: Twitter
+          url: https://twitter.com/FutrimeOfficial
+          params:
+              icon: brand-twitter
+
+params:
+    mainSections:
+        - post
+    featuredImageField: image
+    rssFullContent: true
+    favicon:
+
+    footer:
+        since: 2019
+        customText:
+
+    dateFormat:
+        published: Jan 02, 2006
+        lastUpdated: Jan 02, 2006 15:04 MST
+
+    sidebar:
+        avatar:
+            enabled: true
+            local: true
+            src: images/avatar.jpg
+
+    article:
+        math: true
+        toc: true
+        readingTime: true
+        license:
+            enabled: true
+            default: CC BY-NC-SA 4.0
+
+    comments:
+        enabled: true
+        provider: utterances
+
+        utterances:
+            repo: Futrime/Blog
+            issueTerm: title
+            label:
+
+    widgets:
+        homepage:
+            - type: archives
+              params:
+                  limit: 5
+            - type: categories
+              params:
+                  limit: 10
+            - type: tag-cloud
+              params:
+                  limit: 10
+
+        page:
+            - type: toc
+
+    colorScheme:
+        default: auto
+        toggle: true
+
+    imageProcessing:
+        content:
+            enabled: true
+        cover:
+            enabled: true
+
+permalinks:
+    post: /p/:slug/
+    page: /:slug/
+
+related:
+    includeNewer: true
+    threshold: 60
+    toLower: false
+    indices:
+        - name: tags
+          weight: 100
+
+        - name: categories
+          weight: 200
