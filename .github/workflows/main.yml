@@ -26,7 +26,7 @@ jobs:
       - name: Upload as a GitHub Pages artifact
         uses: actions/upload-pages-artifact@v1.0.4
         with:
-          path: publish/
+          path: public/
 
   deploy:
     name: Deploy the website
