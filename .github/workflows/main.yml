@@ -1,4 +1,4 @@
-name: Build
+name: Publish the Website
 
 on:
   push:
@@ -6,13 +6,27 @@ on:
 
 jobs:
   build:
-    name: Build the pages
+    name: Build the website
     runs-on: ubuntu-latest
     
     steps:
       - name: Checkout the commit
         uses: actions/checkout@v3
-      - name: Run a one-line script
+        
+      - name: Build the pages
         uses: peaceiris/actions-hugo@v2.4.13
         with:
           extended: true
+
+      - name: Upload as a GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v1.0.4
+        with:
+          path: publish/
+
+  deploy:
+    name: Deploy the website
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Deploy the GitHub Pages
+        uses: actions/deploy-pages@v1.2.0
