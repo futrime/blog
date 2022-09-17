@@ -18,7 +18,7 @@ There are already a variety of blogging platforms, software and systems created 
 
 A representative of these solutions is to blog with [Hugo](https://gohugo.io) and to deploy on [GitHub Pages](https://pages.github.com/). Here I'm introducing how to start blogging with Hugo and GitHub Pages step by step.
 
-### Create An GitHub Repository for Storage
+## Create An GitHub Repository for Storage
 
 Note that GitHub Pages is just a deployment service, storage service not included. Hence it relies on a GitHub repository for storing the page source.
 
@@ -30,11 +30,11 @@ If you would just like to use the whole `<your_name>.github.io` domain as your b
 
 ![The repository name](https://s2.loli.net/2022/09/17/MIGm2q3g7cH5TDx.png)
 
-### Add Some Pages
+## Add Some Pages
 
 Now that you have create the repository, it's time to add some pages to it. Just add `index.md` to your repository on GitHub and type `# Hello World` in the file, and then save the file.
 
-### Enable GitHub Pages
+## Enable GitHub Pages
 
 Go to **Settings** -> **Pages**. Adjust the branch selection from **None** to **main**, and set the folder to **/ (root)**. Click **Save**.
 
@@ -42,7 +42,7 @@ Go to **Settings** -> **Pages**. Adjust the branch selection from **None** to **
 
 Wait, and refresh from time to time until the text **Your site is live at `https://<your_name>.github.io/`** is shown. Click the URL and you would see **Hello World** on the page.
 
-### Get Hugo Involved
+## Get Hugo Involved
 
 Without static site generators like Hugo, the pages will never be beautiful enough for a blog. Let's start to get Hugo involved.
 
@@ -63,7 +63,7 @@ theme = 'ananke'
 
 Then run `hugo server` and open `http://localhost:1313` in your browser, you will see the site.
 
-### Add Some Pages
+## Add Some Pages
 
 Add some pages again, right?
 
@@ -84,7 +84,7 @@ This is my first blog!
 
 ```
 
-### Configure GitHub Actions
+## Configure GitHub Actions
 
 It's disturbing to always buiding the site on our own computer and pushing to GitHub. Therefore, it is necessary to make the procedure automatic.
 
