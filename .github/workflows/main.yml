@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout the commit
         uses: actions/checkout@v3
+        with:
+          submodules: true
         
       - name: Build the pages
         uses: peaceiris/actions-hugo@v2.4.13
@@ -25,6 +27,7 @@ jobs:
 
   deploy:
     name: Deploy the website
+    needs: build
     runs-on: ubuntu-latest
     
     steps:
