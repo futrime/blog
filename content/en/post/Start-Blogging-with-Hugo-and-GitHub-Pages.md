@@ -4,7 +4,7 @@ title: Start Blogging with Hugo and GitHub Pages
 description: It's much simpler than you think...
 date: 2022-09-17T21:03:08+08:00
 categories:
-  - Tech Diary
+  - Logging
 tags:
   - hugo
   - github-pages

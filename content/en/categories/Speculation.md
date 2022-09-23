@@ -1,4 +1,4 @@
 ---
-title: Something to Say
+title: Speculation
 image: https://i.loli.net/2020/11/02/xLWtZbkyU1aqmVD.jpg
 ---

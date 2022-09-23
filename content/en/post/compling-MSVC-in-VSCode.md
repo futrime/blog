@@ -4,7 +4,7 @@ title: Compiling C/C++ programs in VSCode with MSVC
 description: Following the official tutorial, then you are to encounter a fatal error...
 date: 2021-09-27T16:03:08+08:00
 categories:
-    - Tech Diary
+    - Logging
     - Experience
 tags:
     - Visual Studio Code

@@ -5,7 +5,7 @@ description: These days I was addicted to a new type of "game", Conway's Game of
 date: 2020-10-10T07:20:11Z
 categories:
     - Experience
-    - Tech Diary
+    - Logging
 tags:
     - Game of Life
     - Conway
