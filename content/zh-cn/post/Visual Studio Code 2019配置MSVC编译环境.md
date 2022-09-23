@@ -4,7 +4,7 @@ title: Visual Studio Code配置MSVC编译环境
 description: 事实上，你根据官方文档配置是会失败的
 date: 2021-09-27T11:00:34+08:00
 categories:
-    - 搞机记录
+    - 玩机日志
     - 经验杂谈
 tags:
     - Visual Studio Code

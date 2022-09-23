@@ -6,7 +6,7 @@ author: Futrime
 description: 在Linux的桌面系统中，有时候我们会遇到系统不能正确识别显示器导致分辨率和刷新率异常，本篇博客我将简要介绍Linux下设置显示器分辨率和刷新率的方法。
 image: https://futrime.gitee.io/image-cdn/2020/02/3933570053.jpg
 categories:
-  - 搞机记录
+  - 玩机日志
   - 经验杂谈
 tags:
   - Linux

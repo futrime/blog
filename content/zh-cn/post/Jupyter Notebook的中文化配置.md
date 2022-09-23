@@ -6,7 +6,7 @@ author: Futrime
 image: https://futrime.gitee.io/image-cdn/2020/04/2794597027.png
 description: Jupyter Notebook的语言是跟随宿主系统的
 categories:
-  - 搞机记录
+  - 玩机日志
   - 经验杂谈
 tags:
   - 语言

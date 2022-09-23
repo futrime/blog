@@ -4,7 +4,7 @@ date: 2019-07-28
 draft: false
 author: Futrime
 categories:
-  - 搞机记录
+  - 玩机日志
   - 经验杂谈
 tags:
   - NanoPi NEO

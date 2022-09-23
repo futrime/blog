@@ -6,7 +6,7 @@ author: Futrime
 description: 在玩Minecraft的时候，我们会有和好友多人联机的需求。而多人联机有多种方式，我认为其中最好的方式就是自己搭建服务器。在这篇文章中我将会介绍如何使用最简单的方法搭建Minecraft基岩版服务器。
 image: https://futrime.gitee.io/image-cdn/2020/04/3985268983.jpg
 categories:
-  - 搞机记录
+  - 玩机日志
   - 经验杂谈
 tags:
   - Ubuntu

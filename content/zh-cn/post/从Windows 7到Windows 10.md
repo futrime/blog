@@ -6,7 +6,7 @@ description: 近日微软发布声明，Windows 7的支持将在2020年1月14日
 author: Futrime
 image: https://futrime.gitee.io/image-cdn/2019/08/1717470746.png
 categories:
-  - 搞机记录
+  - 玩机日志
   - 经验杂谈
 tags:
   - Windows 7

@@ -6,7 +6,7 @@ author: Futrime
 description: 想必很多使用Linux桌面系统的用户都会遇到这样一个棘手问题：登录界面的数字小键盘默认是关闭的，下意识输入数字密码的时候总是会出问题。这篇文章我将会简单地讲一下Linux桌面系统下默认开启数字小键盘的方法。
 image: https://futrime.gitee.io/image-cdn/2020/02/3423400315.jpg
 categories:
-  - 搞机记录
+  - 玩机日志
   - 经验杂谈
 tags:
   - Linux

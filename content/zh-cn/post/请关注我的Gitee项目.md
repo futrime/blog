@@ -4,7 +4,6 @@ date: 2020-04-29 18:54:00
 draft: false
 author: Futrime
 categories:
-  - 一言
 tags:
   - Gitee
 ---

@@ -5,7 +5,7 @@ draft: false
 author: Futrime
 image: https://futrime.gitee.io/image-cdn/2020/04/393612475.jpg
 categories:
-  - 搞机记录
+  - 玩机日志
   - 经验杂谈
 tags:
   - Minecraft

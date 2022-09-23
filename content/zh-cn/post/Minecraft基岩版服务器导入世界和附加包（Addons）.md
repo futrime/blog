@@ -6,7 +6,7 @@ author: Futrime
 description: Minecraft官方提供了基岩版专用服务器（Bedrock Dedicated Server, BDS）供玩家进行简单的开服，但是官方教程和FAQ中并没有提到如何将外部世界或附加包导入服务器中，这为想要在服务器上玩别人的地图的玩家带来不便。在这篇文章中，我简单介绍一下如何在基岩版官方服务器中导入世界和附加包。
 image: https://futrime.gitee.io/image-cdn/2020/04/4181545536.jpg
 categories:
-  - 搞机记录
+  - 玩机日志
   - 经验杂谈
 tags:
   - Minecraft

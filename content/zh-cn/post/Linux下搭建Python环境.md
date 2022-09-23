@@ -6,7 +6,7 @@ author: Futrime
 description: 常在Linux下玩，怎能没Python？Python和PyPI已经成为Linux下的一个新的风尚。现在许多热门的领域都逐渐被Python和PyPI所占领。Python凭借着它的极高的开发效率，成功拿下了一个又一个新的领域。而且，Python的存在打破了众多爱好者和传统意义上“服务器”的界限。可以说，在将来的3-4年内，将会是Python的时代。这篇文章我将会讲述一下如何在Linux下搭建Python和PyPI环境。
 image: https://futrime.gitee.io/image-cdn/2020/02/530053381.jpg
 categories:
-  - 搞机记录
+  - 玩机日志
   - 经验杂谈
 tags:
   - Python

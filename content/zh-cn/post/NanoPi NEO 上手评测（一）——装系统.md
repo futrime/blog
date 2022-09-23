@@ -6,7 +6,7 @@ draft: false
 author: Futrime
 image: https://i.loli.net/2020/10/31/jboc9aI7Jr6Wqfp.jpg
 categories:
-  - 搞机记录
+  - 玩机日志
   - 经验杂谈
 tags:
   - NanoPi NEO

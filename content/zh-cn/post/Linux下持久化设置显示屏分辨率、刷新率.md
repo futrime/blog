@@ -6,7 +6,7 @@ author: Futrime
 image: https://futrime.gitee.io/image-cdn/2020/02/720154920.png
 description: 我试了不少方法，终于找到了Linux下持久设置显示屏分辨率的方法了，解决了两个多月前遇到的问题。
 categories:
-  - 搞机记录
+  - 玩机日志
   - 经验杂谈
 tags:
   - Linux

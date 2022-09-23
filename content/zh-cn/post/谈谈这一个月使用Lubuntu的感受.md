@@ -6,7 +6,6 @@ author: Futrime
 image: https://futrime.gitee.io/image-cdn/2020/02/1125252701.jpg
 description: 一个月之前，也就是2月1日，我的笔记本电脑坏掉了，于是我就在一台性能机器羸弱的HTPC上换了Lubuntu系统来用。在这篇文章中我就简单谈谈我使用安装了Lubuntu的这台电脑的感受吧。
 categories:
-  - 一言
 tags:
   - Linux
   - Lubuntu

@@ -6,7 +6,7 @@ author: Futrime
 description: 网易版我的世界并不支持原装中文以外的操作系统，即使后期把语言换成了中文。
 image: https://futrime.gitee.io/image-cdn/2020/04/3931251301.jpg
 categories:
-  - 搞机记录
+  - 玩机日志
   - 经验杂谈
 tags:
   - 语言

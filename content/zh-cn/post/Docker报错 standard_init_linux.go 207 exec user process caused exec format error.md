@@ -5,7 +5,7 @@ draft: false
 author: Futrime
 image: https://futrime.gitee.io/image-cdn/2020/05/2123884079.png
 categories:
-  - 搞机记录
+  - 玩机日志
   - 经验杂谈
 tags:
   - Docker

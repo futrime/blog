@@ -6,7 +6,7 @@ image: https://futrime.gitee.io/image-cdn/2019/08/2156783251.png
 draft: false
 author: Futrime
 categories:
-  - 搞机记录
+  - 玩机日志
   - 经验杂谈
 tags:
   - Windows 10

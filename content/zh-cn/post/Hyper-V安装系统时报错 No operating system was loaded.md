@@ -6,7 +6,7 @@ author: Futrime
 description: 最近玩Docker Desktop，要求使用Hyper-V作为后端，而Hyper-V和VMWare Workstation Player或VirtualBox不兼容，只能卸载这些顺手的虚拟机软件，尝试上手Hyper-V。在使安装系统时遇到“No operating system was loaded”的报错，特此记录。
 image: https://futrime.gitee.io/image-cdn/2020/05/3997470385.png
 categories:
-  - 搞机记录
+  - 玩机日志
   - 经验杂谈
 tags:
   - 操作系统

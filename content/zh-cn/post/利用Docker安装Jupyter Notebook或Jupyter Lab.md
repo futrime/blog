@@ -6,7 +6,7 @@ author: Futrime
 description: 利用Docker安装Jupyter Notebook/Jupyter Lab可以有效地避免环境冲突和提高安全性。在这篇文章中我就简单介绍如何使用Docker安装Jupyter Notebook/Jupyter Lab并配置sudo权限。
 image: https://futrime.gitee.io/image-cdn/2020/04/3984197395.png
 categories:
-  - 搞机记录
+  - 玩机日志
   - 经验杂谈
 tags:
 ---
