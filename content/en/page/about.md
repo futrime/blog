@@ -9,14 +9,10 @@ draft: false
 
 This is the blog of a Computer Science enthusiast Futrime, consisting of Futrime’s thinking, studies, footprints and some stuff.
 
-Now at Foshan No.1 High School.
+Now at Tsinghua University.
 
 And you can contact me at:
 
-Mainpage： [Futrime's Blog](https://blog.futrime.com)
-
-Email： [futrime@outlook.com](mailto:futrime@outlook.com)
+Email： [futrime@futrime.com](mailto:futrime@futrime.com)
 
 GitHub: [Futrime](https://github.com/Futrime)
-
-YouTube：[Zijian Zhang](https://youtube.com/channel/UCS7VqGPsLgyTQxg7sLTVg3Q)
