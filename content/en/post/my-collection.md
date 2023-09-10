@@ -7,9 +7,6 @@ categories:
     - Experience
 date: 2023-09-10T09:50:00+08:00
 draft: false
-tags:
-    - TinyPNG
-    - Image Processing
 ---
 
 # My Collection
