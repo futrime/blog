@@ -9,10 +9,14 @@ date: 2023-09-10T09:50:00+08:00
 draft: false
 ---
 
-# My Collection
-
 ## bridge.
 
 The IDE for Minecraft Add-Ons.
 
-Homepage: <https://bridge-core.app/>
+Homepage: <https://bridge-core.app>
+
+## Quicker
+
+A keyboard and mouse macro utility.
+
+Homepage: <https://getquicker.net>
